@@ -10,7 +10,7 @@
 					<!-- footer logo -->
 					<div class="col-md-6">
 						<div class="footer-logo">
-							<a class="logo" style="font-size: 30px;" href="main.php">Career.ly</a>
+							<a class="logo" style="font-size: 30px;" href="main.php">Career Compass</a>
 						</div>
 					</div>
 					<!-- footer logo -->

@@ -35,7 +35,7 @@
 				<div class="navbar-header">
 					<!-- Logo -->
 					<div class="navbar-brand">
-						<a class="logo" href="main.php">Career.ly</a>
+						<a class="logo" href="main.php">Career Compass</a>
 					</div>
 					<!-- /Logo -->
 

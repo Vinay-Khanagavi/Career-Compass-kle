@@ -133,7 +133,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
 				<div class="navbar-header">
 					<!-- Logo -->
 					<div class="navbar-brand">
-						<a class="logo" href="main.php" style="padding-bottom: 10px;">Career.ly</a>
+						<a class="logo" href="main.php" style="padding-bottom: 10px;">Career Compass</a>
 					</div>
 					<!-- /Logo -->
 
