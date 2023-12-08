@@ -67,16 +67,12 @@ session_start();
 						<!-- /contact map -->
 
 					</div>
-					<!-- contact information -->
 
 				</div>
-				<!-- /row -->
 
 			</div>
-			<!-- /container -->
 
 		</div>
-		<!-- /Contact -->
 
 		
 		<!-- Footer -->

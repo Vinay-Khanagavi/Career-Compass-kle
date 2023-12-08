@@ -18,7 +18,6 @@ session_start();
 					<div class="row">
 						<div class="col-md-8">
 						
-
 							<h1 class="white-text" style="font-size: 40px;margin-top: 20px;
 							margin-bottom:50px;">Intelligent Career Guidance System</h1>
 							
@@ -35,19 +34,13 @@ session_start();
 									<a class="main-button icon-button" href="http://127.0.0.1:5000/">Get Started!</a>
 								
 							<?php endif ?>
-							
-							
 						</div>
 					</div>
 				</div>
 			</div>
 
 		</div>
-		<!-- /Home -->
 
-
-
-        <!-- Why us -->
 		<div id="why-us" class="section">
 
 			<!-- container -->
