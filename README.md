@@ -6,7 +6,6 @@ Job board web application.
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Future Development](#future-development)
-- [Inspiration](#inspiration)
 
 
 ## General Info
@@ -52,8 +51,6 @@ Project is: finished with option to expand functionality and DRY out code.
 - Enhanced search functionality: A job board app could potentially include more advanced search features, such as the ability to search for jobs based on specific skills or experience levels, or the ability to search within job descriptions for specific keywords.
 - AWS S3 Bucket Integration: Use cloud storage to store the uploaded files instead of storing it in the server.
 
-## Inspiration
-I was inspired to create this job board because I saw a need for a more user-friendly and effective platform for job seekers and recruiters to connect, and I wanted to help people find the job opportunities that are right for them.
 
 
 
